@@ -37,6 +37,7 @@ const Wrapper = styled.main`
     }
     .main-img {
       display: block;
+      border-radius: 15%;
     }
   }
 `

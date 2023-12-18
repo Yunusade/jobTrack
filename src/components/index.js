@@ -1,5 +1,4 @@
 import BigSidebar from './BigSidebar';
-import ChartsContainer from './ChartsContainer';
 import FormRow from './FormRow';
 import FormRowSelect from './FormRowSelect';
 import JobsContainer from './JobsContainer';
@@ -19,5 +18,4 @@ export {
   JobsContainer,
   SearchContainer,
   StatsContainer,
-  ChartsContainer,
 };
